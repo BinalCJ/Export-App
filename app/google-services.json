@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116488929670",
+    "project_id": "xport-master-7c6d3",
+    "storage_bucket": "xport-master-7c6d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116488929670:android:d8bc2e52630e272b61ec07",
+        "android_client_info": {
+          "package_name": "com.example.xportmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116488929670-nq2kdh8obr9n7c2l3jd3fa6t0un2nrn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZnhV6ngh6JOmTQmBzCpC6SNuMC-IOgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116488929670-nq2kdh8obr9n7c2l3jd3fa6t0un2nrn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
